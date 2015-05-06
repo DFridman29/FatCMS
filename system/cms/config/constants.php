@@ -177,11 +177,11 @@ define('CMS_VERSION', '2.0.0');
 | FatCMS Edition
 |--------------------------------------------------------------------------
 |
-| Community or Professional?
+| Version Name
 |
 */
 
-define('CMS_EDITION', 'Community');
+define('CMS_EDITION', 'Acumen');
 
 /*
 |--------------------------------------------------------------------------
@@ -192,6 +192,6 @@ define('CMS_EDITION', 'Community');
 |
 */
 
-define('CMS_DATE', '06/07/2014');
+define('CMS_DATE', '5/6/15');
 
 /* End of file constants.php */
