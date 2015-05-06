@@ -170,7 +170,7 @@ define('CDN_OFFER_URL', 'http://tracking.maxcdn.com/c/89350/3982/378?u=http%3A%2
 |
 */
 
-define('CMS_VERSION', '2.2.5');
+define('CMS_VERSION', '2.0.0');
 
 /*
 |--------------------------------------------------------------------------
